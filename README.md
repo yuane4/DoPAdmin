@@ -8,7 +8,8 @@ This anonymous repo contains data used during our experiments in the dataset cal
 
 
 ### Information
-- Cluster_kmeans correspond to the K-means clustering.
-- Cluster_Nb_random correspond to the random clusters.
-- Cluster_Ent_Ent_small correspond to the version of data with unique sentences. 
-- Cluster_Ent_Ent_duplicates correspond to the version of data with duplicated sentences. 
+- Cluster_kmeans correspond to the K-means clustering for DoPAdmin.
+- Cluster_Nb_random correspond to the random clusters for DoPAdmin..
+- Cluster_Ent_Ent_small correspond to the version of data with unique sentences for DoPAdmin. 
+- Cluster_Ent_Ent_duplicates correspond to the version of data with duplicated sentences for DoPAdmin.
+- Snapshot_FewRel_rd correspond to the snapshot randomly extract from FewRel validation set
